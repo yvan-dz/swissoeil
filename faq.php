@@ -30,7 +30,7 @@
                 <div class="breadcrumb-area-wrapper">
                     <h1 class="title">FAQ</h1>
                     <div class="nav-bread-crumb">
-                        <a href="#">Acceuil</a>
+                        <a href="index.php">Acceuil</a>
                         <i class="fa-solid fa-chevron-right"></i>
                         <a href="#" class="current">FAQ</a>
                     </div>
@@ -43,114 +43,103 @@
 
     <!-- rts faq area start -->
     <div class="rts-faq-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-gl-12">
-                    <div class="container-wrapper-faq">
-                        <div class="title-six-center">
-                            <h2 class="title">
-                                Foire Aux Questions
-                            </h2>
-                        </div>
-                        <div class="accordion mt--60" id="accordionExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing.
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, asperiores.
-                                        Debitis, facere fugiat! Officiis architecto distinctio eaque voluptatum aperiam
-                                        quam dicta cupiditate dolorum perferendis? Nulla deleniti quo nobis inventore
-                                        voluptatibus.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Lorem ipsum dolor sit.
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur ut eaque
-                                        minima, reiciendis reprehenderit deserunt odio laudantium expedita facere
-                                        provident suscipit unde? Perferendis possimus perspiciatis ipsum, tempora
-                                        accusamus eum aspernatur.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus inventore
-                                        illo debitis magni consectetur laudantium atque, fugiat voluptates? Quisquam
-                                        amet ullam at deserunt perferendis expedita, pariatur nisi facilis quibusdam
-                                        quos?
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFour" aria-expanded="false"
-                                        aria-controls="collapseFour">
-                                        Lorem ipsum dolor sit amet consectetur.
-                                    </button>
-                                </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias quos
-                                        voluptatem commodi distinctio porro id, omnis et, obcaecati sapiente ea, error
-                                        necessitatibus cumque nam? Magni aperiam, fuga natus harum, ex, dolore
-                                        accusantium aliquid minima quisquam nihil consectetur doloribus eaque
-                                        repudiandae?
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseFive" aria-expanded="false"
-                                        aria-controls="collapseFive">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto.
-                                    </button>
-                                </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium,
-                                        exercitationem repellendus quasi asperiores veritatis nostrum aliquid dolore ab
-                                        ducimus accusantium? Debitis, quod aliquam ex ipsa deleniti hic ducimus officia
-                                        quaerat tempore eum eveniet cum alias exercitationem nam non excepturi ratione
-                                        sunt deserunt laudantium quidem. Adipisci doloribus temporibus quidem,
-                                        consequatur necessitatibus unde exercitationem quia cumque! In ipsam iusto
-                                        inventore tempore. Excepturi.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-gl-12">
+                <div class="container-wrapper-faq">
+                    <div class="title-six-center">
+                        <h2 class="title">
+                            Foire Aux Questions
+                        </h2>
                     </div>
+                    <div class="accordion mt--60" id="accordionExample">
+                        <!-- Adresse -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Quelle est l'adresse de Dr. Gérard Djoukwe ?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Dr. Gérard Djoukwe reçoit ses patients à l’adresse suivante : CMC OPHTA LEMAN, Rue du Léman 18B, 1920 Martigny.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Langues parlées -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Quelles langues parle Dr. Gérard Djoukwe ?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Dr. Gérard Djoukwe propose des consultations en français, anglais et italien.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Horaires de consultation -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Quels sont les horaires de consultation de Dr. Gérard Djoukwe ?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Les consultations ont lieu du lundi au vendredi, de 08:30 à 18:00, à CMC OPHTA LEMAN Martigny.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Nouveaux patients -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Est-ce que Dr. Gérard Djoukwe accepte les nouveaux patients ?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Oui, Dr. Gérard Djoukwe accepte les nouveaux patients. La prise de rendez-vous est possible en ligne 24/7 via la plateforme OneDoc.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Spécialités et expertises -->
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Quelles sont les expertises de Dr. Gérard Djoukwe ?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Les expertises de Dr. Gérard Djoukwe incluent : examen de la vue, cataracte, glaucome, ophtalmologie pédiatrique et DMLA (Dégénérescence Maculaire Liée à l'Âge).
+                                </div>
+                            </div>
+                        </div>
+
+                    </div> <!-- end accordion -->
                 </div>
             </div>
         </div>
     </div>
+</div>
+
     <!-- rts faq area end -->
 
 
@@ -165,7 +154,7 @@
                             Reserver un <br>
                             <span>Rendez-vous</span>
                         </h2>
-                        <a href="#" class="rts-btn btn-primary">Reserver</a>
+                        <a href="https://www.onedoc.ch/fr/ophtalmologue/martigny/pcubn/dr-gerard-djoukwe" class="rts-btn btn-primary">Reserver</a>
                     </div>
                 </div>
             </div>

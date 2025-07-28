@@ -16,21 +16,21 @@
                         <h6 class="title">Contact</h6>
                         <div class="body">
                             <p class="location">
-                                Suisse, Geneve
-                                Lausaine, 2342
+                                Suisse, Rue du Léman 18B
+                                1920 Martigny
                             </p>
-                            <a href="#">adresse@gmail.com</a>
-                            <a href="#">+32 9374</a>
+                            <!-- <a href="#">adresse@gmail.com</a> -->
+                            <a href="tel:+41 027 722 29 31">+41 027 722 29 31</a>
                         </div>
                     </div>
                     <div class="single-wized">
                         <h6 class="title">Navigation</h6>
                         <div class="body">
                             <ul class="nav-bottom">
-                                <li><a href="about.html">A Propos</a></li>
-                                <li><a href="about.html">FAQs</a></li>
-                                <li><a href="appoinment.html">Nos Docteurs </a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="index.php">Accueil</a></li>
+                                <li><a href="about.php">A Propos</a></li>
+                                <li><a href="faq.php">FAQs</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -38,10 +38,11 @@
                         <h6 class="title">Nos Services</h6>
                         <div class="body">
                             <ul class="nav-bottom">
-                                <li><a href="#">Bilan de la vue</a></li>
-                                <li><a href="#">Chirugie(Glaucome, cataracte etc..) </a></li>
-                                <li><a href="#">Téléconsultation</a></li>
-                                <li><a href="#">Laser & imagerie e la rétine</a></li>
+                                <li><a href="bilan.php">Bilan de la vue</a></li>
+                                <li><a href="chirurgie.php">Chirugie(Glaucome, cataracte etc..) </a></li>
+                                <li><a href="consultation-mineur.php">Consultation Ophtalmologique Enfant (-18 ans)</a></li>
+                                <li><a href="laser.php">Laser & imagerie e la rétine</a></li>
+                                <li><a href="urgence.php">Urgence ophtalmologique</a></li>
                             </ul>
                         </div>
                     </div>
@@ -49,13 +50,13 @@
                         <h6 class="title">Horaire</h6>
                         <div class="body">
                             <p class="location">
-                                Lun - Ven: 09:00 - 17:00pm
+                                Lun - Ven: 08:30 - 18:00
                             </p>
                             <p class="location">
-                                Samedi: 10:00am - 18:00
+                                Samedi: Fermé
                             </p>
                             <p class="location">
-                                Dimanche Fermé
+                                Dimanche: Fermé
                             </p>
                         </div>
                     </div>
@@ -69,7 +70,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="copyright-area-inner">
-                    <p>© 2025 Swissoeil. Proudly built by <a target="_blank" href="https://www.websnape.de">Websnape</a>
+                    <p>© <?php echo date('Y'); ?> Swissoeil. Proudly built by <a target="_blank" href="https://www.websnape.de">Websnape</a>
                         &<a target="_blank" href="https://www.elevryx.com"> Elevryx</a> </p>
                 </div>
             </div>
@@ -92,7 +93,7 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Service</a>
                     <ul class="submenu mm-collapse">
-                        <li><a href="service.html">Laser & imagerie e la rétine</a></li>
+                        <li><a href="service.php">Laser & imagerie e la rétine</a></li>
                         <li><a href="service-details.html">Urgence Ophotamologique</a></li>
                         <li><a href="service-details-2.html">Laser & imagerie e la rétine</a></li>
                         <li><a href="service-details-3.html">Chirugie(Glaucome, cataracte etc..)</a></li>
@@ -102,11 +103,11 @@
                     </ul>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main">Nos Médecins</a>
+                    <a href="doctors.php" class="main">Nos Médecins</a>
                 </li>
-                <li><a href="faq.html" class="main">FAQs</a></li>
-                <li><a href="about.html" class="main">A Propos</a></li>
-                <li><a href="contactus.html" class="main">Contact</a></li>
+                <li><a href="faq.php" class="main">FAQs</a></li>
+                <li><a href="about.php" class="main">A Propos</a></li>
+                <li><a href="contactus.php" class="main">Contact</a></li>
             </ul>
         </nav>
 

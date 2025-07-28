@@ -23,13 +23,13 @@
     <!-- header area end -->
 
     <!-- rts breadcrumb area start -->
-    <div class="rts-breadcrumb-area bg_image rts-section-gap">
+    <div class="rts-breadcrumb-area2 bg_image rts-section-gap">
         <div class="container ptb--40">
             <div class="row">
                 <div class="breadcrumb-area-wrapper">
                     <h1 class="title">A Propos</h1>
                     <div class="nav-bread-crumb">
-                        <a href="index.html">Acceuil</a>
+                        <a href="index.php">Acceuil</a>
                         <i class="fa-solid fa-chevron-right"></i>
                         <a href="#" class="current">A Propos</a>
                     </div>
@@ -47,7 +47,7 @@
                 <div class="col-lg-5 mb_md--30 mb_sm--30">
                     <div class="about-image-left-wrapper">
                         <div class="thumbnail-main move-right wow">
-                            <img src="assets/images/about/01.jpg" alt="about">
+                            <img src="assets/images/about/gerard.jpg" alt="about">
                         </div>
                     </div>
                 </div>
@@ -56,23 +56,15 @@
                         <div class="title-wrapper-left">
                             <span class="pre wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">A Propos</span>
                             <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                                Lorem ipsum dolor sit amet. <br> Lorem, ipsum dolor.
+                                Votre vision, notre priorité <br> Des soins ophtalmologiques fondés sur l’expertise, la rigueur et l’éthique
                             </h2>
                         </div>
                         <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus fugit tempore ab dignissimos
-                            deserunt quis ratione consequuntur rem! Fuga, itaque. Porro, similique, non distinctio sint
-                            explicabo vel, ab aperiam fuga nesciunt illo possimus nisi autem! Animi illo voluptatum
-                            corrupti necessitatibus?
+                            Fort de plusieurs années d’expérience, je m’engage à fournir des soins précis et rigoureux, en accord avec les standards les plus élevés de la médecine ophtalmologique.<br>
+
+                            L’éthique, la qualité des traitements et le bien-être du patient sont au cœur de ma pratique. Grâce à un diagnostic précis et à l’utilisation de technologies de pointe, je vous propose une prise en charge personnalisée, adaptée à vos besoins visuels spécifiques.
                         </p>
-                        <div class="button-wrapper wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".8s">
-                            <a href="about.html" class="rts-btn btn-primary">A Propos <img
-                                    src="assets/images/banner/icons/arrow--up-right.svg" alt=""></a>
-                            <div class="signature">
-                                <img class="one" src="assets/images/about/01.png" alt="about">
-                                <p>Nom du client ici, et sa photo</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -80,104 +72,62 @@
     </div>
     <!-- rs about area end -->
 
-    <!-- why choose us section start -->
-    <div class="why-choose-us-area">
-        <div class="container-80">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="why-choose-area-wrapper bg-light  rts-section-gap ">
-                        <div class="container">
-                            <div class="row align-items-end">
-                                <div class="col-xl-5 col-lg-6 mb_md--80 mb_sm--60">
-                                    <div class="why-choose-us-area-wrapper-main">
-                                        <div class="title-wrapper-left">
-                                            <span class="pre wow fadeInUp" data-wow-delay=".2s"
-                                                data-wow-duration=".8s">Pourquoi nous choisir ?</span>
-                                            <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                                                Pourquoi sommes nous recommendé par nos patients
-                                            </h2>
-                                            <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                                                Nous sommes dévoué.... Lorem ipsum, dolor sit amet consectetur
-                                                adipisicing elit. Hic, deserunt!
-                                            </p>
-                                        </div>
-                                        <div class="why-choose-us-main-wrapper">
-                                            <div class="single-choose-us wow fadeInLeft" data-wow-delay=".2s"
-                                                data-wow-duration=".8s">
-                                                <div class="icon">
-                                                    <img src="assets/images/service/icon/01.svg" alt="service">
-                                                </div>
-                                                <div class="info">
-                                                    <h6 class="title">Centré sur le patient</h6>
-                                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-                                                </div>
-                                            </div>
-                                            <div class="single-choose-us wow fadeInLeft" data-wow-delay=".4s"
-                                                data-wow-duration=".8s">
-                                                <div class="icon">
-                                                    <img src="assets/images/service/icon/02.svg" alt="service">
-                                                </div>
-                                                <div class="info">
-                                                    <h6 class="title">Urgence Médicale</h6>
-                                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
-                                                </div>
-                                            </div>
-                                            <div class="single-choose-us wow fadeInLeft" data-wow-delay=".6s"
-                                                data-wow-duration=".8s">
-                                                <div class="icon">
-                                                    <img src="assets/images/service/icon/03.svg" alt="service">
-                                                </div>
-                                                <div class="info">
-                                                    <h6 class="title">Expérience et expertise</h6>
-                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-                                                </div>
-                                            </div>
-                                            <div class="single-choose-us wow fadeInLeft" data-wow-delay=".8s"
-                                                data-wow-duration=".8s">
-                                                <div class="icon">
-                                                    <img src="assets/images/service/icon/04.svg" alt="service">
-                                                </div>
-                                                <div class="info">
-                                                    <h6 class="title">Disponible 24/7</h6>
-                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6 col-lg-6 offset-xl-1">
-                                    <div class="right-whychoose-us-style-one">
-                                        <div class="feature-bg-primary">
-                                            <img src="assets/images/feature/02.webp" alt="medicle">
-                                        </div>
-                                        <div class="thumbnail-image">
-                                            <img src="assets/images/feature/01.webp" alt="medicle">
-                                        </div>
-                                        <div class="inner-content">
-                                            <div class="top">
-                                                <h3 class="title">Service!</h3>
-                                                <div class="time-shedule">
-                                                    <img src="assets/images/feature/03.svg" alt="medicle">
-                                                    <span>24/7</span>
-                                                </div>
-                                            </div>
-                                            <div class="call-us">
-                                                <img src="assets/images/feature/04.svg" alt="medicle">
-                                                <span>+34 0000-009-0</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
+
+
+
+    <!-- portfolio detaio details area start -->
+    <div class="container">
+        <div class="row">
+    <div class="col-lg-12">
+        <div class="portfolio-detials-wrapper">
+            <h4 class="title">Une approche médicale fondée sur la rigueur et l’écoute</h4>
+            <p style="text-align: justify;">
+                Dr. Gérard Djoukwe se distingue par son extrême rigueur et son professionnalisme constant dans l’exercice de l’ophtalmologie. Chaque patient bénéficie d’une attention individualisée, où précision médicale et écoute active se conjuguent pour offrir un accompagnement de qualité. Son engagement envers le bien-être de ses patients va bien au-delà du simple diagnostic : il prend le temps de comprendre chaque situation, d’expliquer clairement les traitements envisagés et de répondre à toutes les préoccupations avec bienveillance.
+                Fort d’une expertise reconnue dans le traitement des pathologies oculaires telles que la cataracte, le glaucome ou la DMLA, il s’appuie sur des technologies de pointe et des protocoles fondés sur les dernières avancées scientifiques. Son approche humaine et méticuleuse fait de chaque consultation un moment de confiance et de sérénité, où la santé visuelle est entre de bonnes mains.
+            </p>
+
+            <div class="bottom-content-area">
+                <h5 class="title">Déroulement et prise en charge :</h5>
+                <span>Ce à quoi vous pouvez vous attendre lors de votre consultation :</span>
+                
+                <div class="list-single">
+                    <img src="assets/images/procedure/01.png" alt="procedure">
+                    <p>Accueil personnalisé et mise en confiance dès votre arrivée au cabinet.</p>
+                </div>
+                
+                <div class="list-single">
+                    <img src="assets/images/procedure/01.png" alt="procedure">
+                    <p>Examen ophtalmologique complet avec des équipements de diagnostic de dernière génération.</p>
+                </div>
+
+                <span class="mt--30 d-block">Approche diagnostique et thérapeutique :</span>
+                
+                <div class="list-single">
+                    <img src="assets/images/procedure/01.png" alt="procedure">
+                    <p>Analyse approfondie de votre état visuel, identification précise des troubles et explication claire des résultats.</p>
+                </div>
+                
+                <div class="list-single">
+                    <img src="assets/images/procedure/01.png" alt="procedure">
+                    <p>Proposition d’un plan de traitement adapté à votre situation, avec suivi régulier et réponses à toutes vos questions.</p>
                 </div>
             </div>
         </div>
     </div>
-    <!-- why choose us section end -->
+</div>
 
-    <!-- why Team section start -->
+
+    </div>
+    <!-- </div> -->
+
+
+
+
+
+
+
+    <!-- why Team section start 
     <div class="team-area-start">
         <div class="container-80">
             <div class="row">
@@ -195,9 +145,10 @@
                                             </h2>
                                         </div>
                                         <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                                            our team of dedicated and highly skilled doctors is at the heart of our
-                                            commitment to providing exceptional medical care. Each member of our team
-                                            brings a wealth of knowledge, experience.
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, a dicta.
+                                            Ullam, doloribus! Atque praesentium id dolore voluptatem minima nihil
+                                            obcaecati in nisi. Recusandae pariatur, maiores id cum, cumque odio quisquam
+                                            rerum eum quas repellat atque eaque est facilis quam vero libero ullam.
                                         </p>
                                     </div>
                                 </div>
@@ -211,11 +162,12 @@
                                                 <div class="swiper-slide">
                                                     <div class="single-team-area-start">
                                                         <a href="doctor-details.html" class="thumbnail">
-                                                            <img src="assets/images/team/01.jpg" alt="team">
+                                                            <img src="assets/images/about/g1.jpg"
+                                                                style="border-radius:10px" alt="team">
                                                         </a>
                                                         <div class="bottom">
                                                             <a href="doctor-details.html">
-                                                                <h6 class="title">Dr. John Doe</h6>
+                                                                <h6 class="title">Dr. Gérard Djoukwe</h6>
                                                             </a>
                                                             <p>Ophtamologue</p>
                                                             <div class="social-area-tranaparent">
@@ -307,10 +259,10 @@
             </div>
         </div>
     </div>
-    <!-- why Team section end -->
+     why Team section end -->
 
     <!-- cta area start -->
-    <div class="request-appoinment-area rts-section-gapBottom">
+    <div class="request-appoinment-area rts-section-gapBottom" style="margin-top: 5%;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -320,7 +272,8 @@
                             Reserver un <br>
                             <span>Rendez-vous</span>
                         </h2>
-                        <a href="#" class="rts-btn btn-primary">Reserver</a>
+                        <a href="https://www.onedoc.ch/fr/ophtalmologue/martigny/pcubn/dr-gerard-djoukwe"
+                            class="rts-btn btn-primary">Reserver</a>
                     </div>
                 </div>
             </div>

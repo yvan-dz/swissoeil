@@ -8,8 +8,9 @@
     <title>Swissoeil - Services</title>
     <meta name="description"
         content="Cabinet d'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
-        <meta author="Websnape & Elevryx">
-    <meta name="keywords" content="ophtalmologie, soins oculaires, Genève, santé des yeux, cataracte, glaucome, laser, rétine, vision, santé visuelle">
+    <meta author="Websnape & Elevryx">
+    <meta name="keywords"
+        content="ophtalmologie, soins oculaires, Genève, santé des yeux, cataracte, glaucome, laser, rétine, vision, santé visuelle">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
@@ -26,11 +27,11 @@
         <div class="container ptb--40">
             <div class="row">
                 <div class="breadcrumb-area-wrapper">
-                    <h1 class="title">Nos Services</h1>
+                    <h1 class="title">Chirugie</h1>
                     <div class="nav-bread-crumb">
-                        <a href="/">Acceuil</a>
+                        <a href="index.php">Acceuil</a>
                         <i class="fa-solid fa-chevron-right"></i>
-                        <a href="#" class="current">Nos Services</a>
+                        <a href="#" class="current">Chirugie</a>
                     </div>
                 </div>
             </div>
@@ -39,102 +40,108 @@
     <!-- rts breadcrumb area end -->
 
 
-    <!-- rts doctors details area start -->
-    <div class="rts-doctors-details-area rts-section-gap">
-        <div class="container">
-            <div class="row g-5">
+<!-- service details area start -->
+<div class="service-details-surgery rts-section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 pr--40 pr_md--10 pr_sm--15">
+                <div class="service-details-surgery-main">
+                    <div class="thumbnail">
+                        <img src="assets/images/service/10.webp" alt="service">
+                    </div>
+                    <h2 class="title">Laser et Imagerie de la Rétine</h2>
+                    <p class="disc">
+                        Le traitement laser et l’imagerie rétinienne sont deux piliers modernes du diagnostic et de la prise en charge des maladies oculaires. Ces technologies de pointe permettent d’intervenir de manière précise, rapide et indolore sur les affections rétiniennes tout en assurant un suivi rigoureux de l’évolution visuelle du patient.
+                    </p>
 
-                <div class="col-lg-8 pl--40 pl_md--10 pl_sm--15">
-                    <div class="doctor-all-details-area">
-                        <span class="pre-title">Services</span>
-                        <h3 class="name wow move-right">Nos Services</h3>
-                        <p><b>Specialty:</b> Cardiology / Interventional Cardiology.</p>
+                    <h5 class="title">Traitements laser pratiqués :</h5>
+                    <div class="check-area-service-details">
+                        <div class="single-check">
+                            <img src="assets/images/service/icon/16.svg" alt="">
+                            <p>Photocoagulation pour la rétinopathie diabétique ou les déchirures rétiniennes.</p>
+                        </div>
+                        <div class="single-check">
+                            <img src="assets/images/service/icon/16.svg" alt="">
+                            <p>Laser YAG pour traiter les opacités capsulaires après chirurgie de la cataracte.</p>
+                        </div>
+                        <div class="single-check">
+                            <img src="assets/images/service/icon/16.svg" alt="">
+                            <p>Laser périphérique préventif en cas de lésions dégénératives de la rétine.</p>
+                        </div>
+                        <div class="single-check">
+                            <img src="assets/images/service/icon/16.svg" alt="">
+                            <p>Traitement des hémorragies ou microanévrismes avec laser focalisé.</p>
+                        </div>
+                        <div class="single-check">
+                            <img src="assets/images/service/icon/16.svg" alt="">
+                            <p>Prise en charge rapide des urgences rétiniennes nécessitant une intervention au laser.</p>
+                        </div>
                     </div>
 
-                    <div class="details-conetnt-here mt--90 mt_md--50 mt_sm--40">
-                        <div class="row g-4">
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Laser & imagerie de la rétine</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                        <p>Lorem ipsum dolor sit amet.e</p>
-                                    </div>
+                    <h5 class="title mt--40">Outils d’imagerie utilisés :</h5>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="check-area-service-details">
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>OCT (Tomographie en cohérence optique)</p>
+                                </div>
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>Angiographie à la fluorescéine</p>
                                 </div>
                             </div>
-
-
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Urgence Ophotamologique</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                    </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="check-area-service-details">
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>Rétinographie couleur HD</p>
+                                </div>
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>Autofluorescence rétinienne</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Chirugie(Glaucome, cataracte etc..)</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                    </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="check-area-service-details">
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>Scan du nerf optique pour le dépistage du glaucome</p>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Bilan de la vue</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit.</p>
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Consultation Ophtamologique</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                                <div class="single-details-content-info">
-                                    <h4 class="title">Téléconsultation</h4>
-                                    <div class="inner flipInY wow">
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                        <p>Lorem ipsum dolor sit amet.</p>
-                                    </div>
+                                <div class="single-check">
+                                    <img src="assets/images/service/icon/16.svg" alt="">
+                                    <p>Suivi des dégénérescences maculaires (DMLA)</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="large-doctor-details-area-left">
-                        <div class="bottom-doctor-details">
-                            <div class="inner flipInY wow">
-                                <h5 class="title">Horaires</h5>
-                                <div class="single-shedule">
-                                    <p>Lundi - Vendredi</p>
-                                    <span>08:00 - 18:00</span>
-                                </div>
-                                <div class="single-shedule">
-                                    <p>Samedi</p>
-                                    <span>8:00 - 16:00</span>
-                                </div>
-                                <div class="single-shedule">
-                                    <p>Dimanche</p>
-                                    <span>Fermé</span>
-                                </div>
+
+                    <div class="row mt--40 g-5">
+                        <div class="col-lg-4">
+                            <div class="thumbnail">
+                                <img src="assets/images/service/11.webp" alt="service">
+                            </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="thumbnail">
+                                <img src="assets/images/service/12.webp" alt="service">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <?php include 'servicelist.php' ?>
+
         </div>
     </div>
-    <!-- rts doctors details area end -->
+</div>
+<!-- service details area end -->
+
+    <!-- service details area end -->
+
 
     <!-- header area start -->
     <?php include 'footer.php' ?>
