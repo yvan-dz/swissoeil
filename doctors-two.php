@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png">
     <title>Swissoeil - Nos docteurs</title>
     <meta name="description"
         content="Cabinet dd'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">

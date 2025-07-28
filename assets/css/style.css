@@ -46,8 +46,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
 :root {
-  --color-primary: #fc5e5e;
-  --color-secondary: #1F1F25;
+  --color-primary: #ff0000;
+  --color-secondary: #24ef00;
   --color-body: #6B6B6B;
   --color-heading-1: #111032;
   --color-white: #fff;
@@ -12142,7 +12142,7 @@ Copyright (c) 2015 Daniel Eden
 .title-area-center .pre {
   border-radius: 30px;
   padding: 5px 16px;
-  color: #fc5e5e;
+  color: #ff0000;
   margin-bottom: 30px;
   text-align: center;
   display: block;
@@ -15120,7 +15120,7 @@ header .rts-btn {
 .title-wrapper-left .pre {
   border-radius: 30px;
   padding: 5px 16px;
-  color: #fc5e5e;
+  color: #ff0000;
   margin-bottom: 21px;
   display: block;
   max-width: max-content;
@@ -15366,7 +15366,7 @@ header .rts-btn {
   flex-direction: column;
 }
 .about-four-content-4 .small-image-right-side .counbter-about {
-  background: #fc5e5e;
+  background: #ff0000;
   border-radius: 10px;
   padding: 10px 15px;
   margin-bottom: 15px;
@@ -15572,7 +15572,7 @@ header .rts-btn {
   position: absolute;
   left: -60px;
   bottom: -40px;
-  background: #fc5e5e;
+  background: #ff0000;
   border-radius: 10px;
   padding: 19px 25px;
   width: 170px;
@@ -16190,7 +16190,7 @@ header .rts-btn {
   margin-top: 40px;
 }
 .single-pricing-area.active {
-  background: #fc5e5e;
+  background: #ff0000;
 }
 .single-pricing-area.active h2,
 .single-pricing-area.active p,
@@ -16662,7 +16662,7 @@ header .rts-btn {
   font-weight: 500;
 }
 .tag-wrapper-small .single-tag:hover {
-  background: #fc5e5e;
+  background: #ff0000;
   color: #fff;
 }
 
@@ -17110,7 +17110,7 @@ header .rts-btn {
   height: 50px;
   width: 50px;
   background: transparent;
-  border: 1px solid #fc5e5e;
+  border: 1px solid #ff0000;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -17121,7 +17121,7 @@ header .rts-btn {
 }
 .swiper-next-prev-controller .swiper-button-next i,
 .swiper-next-prev-controller .swiper-button-prev i {
-  color: #fc5e5e;
+  color: #ff0000;
 }
 .swiper-next-prev-controller .swiper-button-next:hover,
 .swiper-next-prev-controller .swiper-button-prev:hover {
@@ -17144,7 +17144,7 @@ header .rts-btn {
   height: 50px;
   width: 50px;
   background: transparent;
-  border: 1px solid #fc5e5e;
+  border: 1px solid #ff0000;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -17163,7 +17163,7 @@ header .rts-btn {
 }
 .button-dental-bwtween-area .swiper-button-next i,
 .button-dental-bwtween-area .swiper-button-prev i {
-  color: #fc5e5e;
+  color: #ff0000;
   transition: 0.3s;
 }
 .button-dental-bwtween-area .swiper-button-next:hover,
@@ -18117,7 +18117,7 @@ li.has-dropdown:hover .submenu {
 }
 @media only screen and (max-width: 1199px) {
   .single--testimonials-2 {
-    background-color: #fc5e5e;
+    background-color: #ff0000;
     background-image: none;
   }
 }
@@ -18201,7 +18201,7 @@ li.has-dropdown:hover .submenu {
   height: 50px;
   width: 50px;
   background: transparent;
-  border: 1px solid #fc5e5e;
+  border: 1px solid #ff0000;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -18220,7 +18220,7 @@ li.has-dropdown:hover .submenu {
 }
 .rts-testimonials-area .title-between-area .swiper-button-next i,
 .rts-testimonials-area .title-between-area .swiper-button-prev i {
-  color: #fc5e5e;
+  color: #ff0000;
   transition: 0.3s;
 }
 .rts-testimonials-area .title-between-area .swiper-button-next:hover,
