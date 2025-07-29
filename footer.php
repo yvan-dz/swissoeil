@@ -102,9 +102,7 @@
                         <li><a href="service-details-3.html">Téléconsultation</a></li>
                     </ul>
                 </li>
-                <li>
-                    <a href="doctors.php" class="main">Nos Médecins</a>
-                </li>
+              
                 <li><a href="faq.php" class="main">FAQs</a></li>
                 <li><a href="about.php" class="main">A Propos</a></li>
                 <li><a href="contactus.php" class="main">Contact</a></li>
