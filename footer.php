@@ -91,7 +91,7 @@
                     <a href="index.php" class="main">Acceuil</a>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main">Service</a>
+                    <a href="#" class="main">Services</a>
                     <ul class="submenu mm-collapse">
                         <li><a href="service.php">Laser & imagerie de la rétine</a></li>
                         <li><a href="service-details.html">Urgence Ophotamologique</a></li>
