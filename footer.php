@@ -41,7 +41,7 @@
                                 <li><a href="bilan.php">Bilan de la vue</a></li>
                                 <li><a href="chirurgie.php">Chirugie(Glaucome, cataracte etc..) </a></li>
                                 <li><a href="consultation-mineur.php">Consultation Ophtalmologique Enfant (-18 ans)</a></li>
-                                <li><a href="laser.php">Laser & imagerie e la rétine</a></li>
+                                <li><a href="laser.php">Laser & imagerie de la rétine</a></li>
                                 <li><a href="urgence.php">Urgence ophtalmologique</a></li>
                             </ul>
                         </div>
@@ -88,7 +88,7 @@
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
                 <li>
-                    <a href="#" class="main">Acceuil</a>
+                    <a href="index.php" class="main">Acceuil</a>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Service</a>
