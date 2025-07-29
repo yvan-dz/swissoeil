@@ -30,7 +30,7 @@
                                 <li><a href="index.php">Accueil</a></li>
                                 <li><a href="about.php">A Propos</a></li>
                                 <li><a href="faq.php">FAQs</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contactus.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -88,22 +88,18 @@
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
                 <li>
-                    <a href="#" class="main">Acceuil</a>
+                    <a href="index.php" class="main">Acceuil</a>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Service</a>
                     <ul class="submenu mm-collapse">
-                        <li><a href="service.php">Laser & imagerie e la rétine</a></li>
-                        <li><a href="service-details.html">Urgence Ophotamologique</a></li>
-                        <li><a href="service-details-2.html">Laser & imagerie e la rétine</a></li>
-                        <li><a href="service-details-3.html">Chirugie(Glaucome, cataracte etc..)</a></li>
-                        <li><a href="service-details-3.html">Bilan de la vue</a></li>
-                        <li><a href="service-details-3.html">Consultation Ophtamologique</a></li>
-                        <li><a href="service-details-3.html">Téléconsultation</a></li>
+                        <li><a href="laser.php">Laser & imagerie e la rétine</a></li>
+                        <li><a href="urgence.php">Urgence Ophotamologique</a></li>
+                        <li><a href="consultation.php">Consultation Ophtamologique</a></li>
+                        <li><a href="consultation-mineur.php">Consultation Ophtalmologique Enfant (-18 ans)</a></li>
+                        <li><a href="chirurgie.php">Chirugie(Glaucome, cataracte etc..)</a></li>
+                        <li><a href="bilan.php">Bilan de la vue</a></li>
                     </ul>
-                </li>
-                <li class="has-droupdown">
-                    <a href="doctors.php" class="main">Nos Médecins</a>
                 </li>
                 <li><a href="faq.php" class="main">FAQs</a></li>
                 <li><a href="about.php" class="main">A Propos</a></li>

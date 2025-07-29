@@ -146,7 +146,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="thumbnail-appoinment wow move-right">
-                        <img src="assets/images/appoinment/contact.jpg" alt="appoinment">
+                        <img src="assets/images/contact/batiment.jpg" alt="appoinment">
                     </div>
                 </div>
             </div>

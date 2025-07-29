@@ -8,7 +8,7 @@
     <title>Swissoeil - Acceuil</title>
     <meta name="description"
         content="Cabinet dd'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
-        <meta author="Websnape & Elevryx">
+    <meta author="Websnape & Elevryx">
     <meta name="keywords" content="ophtalmologie, soins oculaires, Genève, santé des yeux, cataracte, glaucome, laser, rétine, vision, santé visuelle">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -19,7 +19,7 @@
 <body>
 
     <!-- header area start -->
-   <?php include 'header.php' ?>
+    <?php include 'header.php' ?>
     <!-- header area end -->
 
     <!-- banner area start -->
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                         <!-- person image -->
-                       
+
                         <!-- person image -->
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                 <div class="col-lg-5">
                     <div class="about-image-left-wrapper">
                         <div class="thumbnail-main move-right wow">
-                            <img src="assets/images/banner/g1.jpg" alt="about">
+                            <img src="assets/images/about/batiment.jpg" alt="about">
                         </div>
                     </div>
                 </div>
@@ -121,15 +121,15 @@
                             </h2>
                         </div>
                         <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                          Fort de plusieurs années d’expérience, je m’engage à fournir des soins précis et rigoureux, en accord avec les standards les plus élevés de la médecine ophtalmologique.<br>
+                            Fort de plusieurs années d’expérience, je m’engage à fournir des soins précis et rigoureux, en accord avec les standards les plus élevés de la médecine ophtalmologique.<br>
 
-L’éthique, la qualité des traitements et le bien-être du patient sont au cœur de ma pratique. Grâce à un diagnostic précis et à l’utilisation de technologies de pointe, je vous propose une prise en charge personnalisée, adaptée à vos besoins visuels spécifiques.
+                            L’éthique, la qualité des traitements et le bien-être du patient sont au cœur de ma pratique. Grâce à un diagnostic précis et à l’utilisation de technologies de pointe, je vous propose une prise en charge personnalisée, adaptée à vos besoins visuels spécifiques.
                         </p>
                         <div class="button-wrapper wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".8s">
                             <a href="about.php" class="rts-btn btn-primary">A Propos <img
                                     src="assets/images/banner/icons/arrow--up-right.svg" alt=""></a>
                             <div class="signature">
-                                <img class="one" src="assets/images/about/g1.jpg" width="65" alt="about">
+                                <img class="one" src="assets/images/about/g1.png" width="65" alt="about">
                                 <p><strong>Dr. Gérard Djoukwe</strong></p>
                             </div>
                         </div>
@@ -150,9 +150,9 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                         <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
                             Nous offrons une <br> large varieté<br> de services
                         </h2>
-                       <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-    Nos experts s'engagent à offrir des soins complets, précis et centrés sur le patient, en s'appuyant sur les dernières avancées en ophtalmologie.
-</p>
+                        <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
+                            Nos experts s'engagent à offrir des soins complets, précis et centrés sur le patient, en s'appuyant sur les dernières avancées en ophtalmologie.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">
@@ -162,8 +162,8 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                         </div>
                         <h4 class="title">Opération de la cataracte</h4>
                         <p class="disc">
-    Évaluation approfondie et intervention chirurgicale pour restaurer votre vision en toute sécurité.
-</p>
+                            Évaluation approfondie et intervention chirurgicale pour restaurer votre vision en toute sécurité.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -175,9 +175,9 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                             <img src="assets/images/service/30.svg" alt="service">
                         </div>
                         <h4 class="title">Imagerie de la rétine</h4>
-                       <p class="disc">
-    Analyses haute précision pour détecter et suivre les pathologies rétiniennes avec fiabilité.
-</p>
+                        <p class="disc">
+                            Analyses haute précision pour détecter et suivre les pathologies rétiniennes avec fiabilité.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -189,9 +189,9 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                             <img src="assets/images/service/31.svg" alt="service">
                         </div>
                         <h4 class="title">Therapie de la vue</h4>
-                       <p class="disc">
-    Programmes personnalisés pour améliorer la performance visuelle et traiter les troubles fonctionnels.
-</p>
+                        <p class="disc">
+                            Programmes personnalisés pour améliorer la performance visuelle et traiter les troubles fonctionnels.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -204,8 +204,8 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                         </div>
                         <h4 class="title">Sécheresse occulaire</h4>
                         <p class="disc">
-    Diagnostic ciblé et solutions adaptées pour soulager l’inconfort lié à la sécheresse oculaire.
-</p>
+                            Diagnostic ciblé et solutions adaptées pour soulager l’inconfort lié à la sécheresse oculaire.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -218,8 +218,8 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                         </div>
                         <h4 class="title">Bilan de la vue</h4>
                         <p class="disc">
-    Examens complets pour évaluer votre acuité visuelle et dépister d’éventuelles anomalies.
-</p>
+                            Examens complets pour évaluer votre acuité visuelle et dépister d’éventuelles anomalies.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -232,8 +232,8 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                         </div>
                         <h4 class="title">Laser</h4>
                         <p class="disc">
-    Traitements laser de précision pour corriger ou stabiliser diverses affections oculaires.
-</p>
+                            Traitements laser de précision pour corriger ou stabiliser diverses affections oculaires.
+                        </p>
 
                         <a href="#" class="btn-transparent">En savoir plus <i
                                 class="fa-solid fa-arrow-right-long"></i></a>
@@ -266,8 +266,8 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                                                 Pourquoi sommes nous recommendé par nos patients
                                             </h2>
                                             <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                                               Nous sommes profondément dévoués à la santé visuelle de chacun de nos patients. 
-                                               Notre approche humaine, notre précision médicale et notre écoute font toute la différence au quotidien.
+                                                Nous sommes profondément dévoués à la santé visuelle de chacun de nos patients.
+                                                Notre approche humaine, notre précision médicale et notre écoute font toute la différence au quotidien.
                                             </p>
                                         </div>
                                         <div class="why-choose-us-main-wrapper">
@@ -330,7 +330,7 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
     </div>
     <!-- why choose us section end -->
 
-     <!-- why Team section start 
+    <!-- why Team section start 
     <div class="team-area-start">
         <div class="container-80">
             <div class="row">
@@ -485,14 +485,13 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                                         <img src="assets/images/testimonials/quotes.png" alt="testimonails">
                                     </div>
                                     <p class="disc">
-                                        Le Dr m’a reçu avec beaucoup d’attention et de calme. Son diagnostic a été clair, et le traitement efficace. 
-                                        Je me suis senti en confiance dès la première consultation.
+                                        Praticien flexible et compréhensif ( enfant TSA &TDAH) Il a su s'adapter immédiatement à la situation. Merci pour votre patience.
                                     <div class="author-area">
                                         <a href="#" class="img">
-                                            <img src="assets/images/testimonials/03.png" alt="testiminials">
+                                            <img src="assets/images/testimonials/user.png" alt="testiminials">
                                         </a>
                                         <div class="info">
-                                            <h6 class="name">Marc D.</h6>
+                                            <h6 class="name">Cosme</h6>
                                             <div class="stars-area">
                                                 <i class="fa-sharp fa-solid fa-star"></i>
                                                 <i class="fa-sharp fa-solid fa-star"></i>
@@ -513,15 +512,13 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                                         <img src="assets/images/testimonials/quotes.png" alt="testimonails">
                                     </div>
                                     <p class="disc">
-                                        Très satisfaite du suivi ! Le spécialiste prend vraiment le temps d’écouter et d’expliquer.
-                                         C’est rassurant d’avoir affaire à quelqu’un de compétent et bienveillant."
-                                    </p>
+                                        Tout s’est bien passé, le docteur expliques bien les choses et l’assistante a été adorable et décrit également tout ce qu’elle va faire
                                     <div class="author-area">
                                         <a href="#" class="img">
-                                            <img src="assets/images/testimonials/04.png" alt="testiminials">
+                                            <img src="assets/images/testimonials/user.png" alt="testiminials">
                                         </a>
                                         <div class="info">
-                                            <h6 class="name">Claire L.</h6>
+                                            <h6 class="name">Noemie</h6>
                                             <div class="stars-area">
                                                 <i class="fa-sharp fa-solid fa-star"></i>
                                                 <i class="fa-sharp fa-solid fa-star"></i>
@@ -542,14 +539,14 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
                                         <img src="assets/images/testimonials/quotes.png" alt="testimonails">
                                     </div>
                                     <p class="disc">
-                                        Excellent ophtalmologue. Consultation soignée, matériel moderne et explications précises. Je recommande sans hésiter.
+                                        Médecin très agréable et très sympathique.
                                     </p>
                                     <div class="author-area">
                                         <a href="#" class="img">
-                                            <img src="assets/images/testimonials/01.png" alt="testiminials">
+                                            <img src="assets/images/testimonials/user.png" alt="testiminials">
                                         </a>
                                         <div class="info">
-                                            <h6 class="name">David P.</h6>
+                                            <h6 class="name">Daoud </h6>
                                             <div class="stars-area">
                                                 <i class="fa-sharp fa-solid fa-star"></i>
                                                 <i class="fa-sharp fa-solid fa-star"></i>
@@ -567,6 +564,12 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
 
                         </div>
                         <div class="swiper-pagination"></div>
+                        <div style="text-align: center; margin-top: 40px;">
+                            <a id="btn-temoignages" href="https://www.doctena.lu/fr/specialite/ophtalmologue-medecin-ophtalmologue/dr-gerard-djoukwe-1811285/feedback" target="_blank">
+                                Voir plus de témoignages
+                            </a>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -596,7 +599,7 @@ L’éthique, la qualité des traitements et le bien-être du patient sont au c�
 
     <!-- header area start -->
     <!-- rts footer area start -->
-    <?php include 'footer.php'?>
+    <?php include 'footer.php' ?>
 
     <script src="assets/js/plugins/jquery.js"></script>
     <script src="assets/js/plugins/jquery-ui.js"></script>
