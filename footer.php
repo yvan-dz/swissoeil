@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <!-- subscribe area start -->
                 <div class="subscribe-area-start pb--20">
-                    <a href="#" class="logo">
+                    <a href="index.php" class="logo">
                         <img src="assets/images/logo/logo.png" width="100" alt="logo">
                     </a>
                 </div>
@@ -16,7 +16,7 @@
                         <h6 class="title">Contact</h6>
                         <div class="body">
                             <p class="location">
-                                Suisse, Rue du Léman 18B
+                                Suisse, <br> Rue du Léman 18B
                                 1920 Martigny
                             </p>
                             <!-- <a href="#">adresse@gmail.com</a> -->
@@ -41,7 +41,7 @@
                                 <li><a href="bilan.php">Bilan de la vue</a></li>
                                 <li><a href="chirurgie.php">Chirugie(Glaucome, cataracte etc..) </a></li>
                                 <li><a href="consultation-mineur.php">Consultation Ophtalmologique Enfant (-18 ans)</a></li>
-                                <li><a href="laser.php">Laser & imagerie e la rétine</a></li>
+                                <li><a href="laser.php">Laser & imagerie de la rétine</a></li>
                                 <li><a href="urgence.php">Urgence ophtalmologique</a></li>
                             </ul>
                         </div>
@@ -91,8 +91,9 @@
                     <a href="index.php" class="main">Acceuil</a>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main">Service</a>
+                    <a href="#" class="main">Services</a>
                     <ul class="submenu mm-collapse">
+<<<<<<< HEAD
                         <li><a href="laser.php">Laser & imagerie e la rétine</a></li>
                         <li><a href="urgence.php">Urgence Ophotamologique</a></li>
                         <li><a href="consultation.php">Consultation Ophtamologique</a></li>
@@ -101,6 +102,18 @@
                         <li><a href="bilan.php">Bilan de la vue</a></li>
                     </ul>
                 </li>
+=======
+                        <li><a href="service.php">Laser & imagerie de la rétine</a></li>
+                        <li><a href="service-details.html">Urgence Ophotamologique</a></li>
+                        <li><a href="service-details-2.html">Laser & imagerie e la rétine</a></li>
+                        <li><a href="service-details-3.html">Chirugie(Glaucome, cataracte etc..)</a></li>
+                        <li><a href="service-details-3.html">Bilan de la vue</a></li>
+                        <li><a href="service-details-3.html">Consultation Ophtamologique</a></li>
+                        <li><a href="service-details-3.html">Téléconsultation</a></li>
+                    </ul>
+                </li>
+              
+>>>>>>> 17802f2e0ca3938ed75c4805ce736b1d2f708341
                 <li><a href="faq.php" class="main">FAQs</a></li>
                 <li><a href="about.php" class="main">A Propos</a></li>
                 <li><a href="contactus.php" class="main">Contact</a></li>
