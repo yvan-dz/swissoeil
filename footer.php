@@ -4,7 +4,7 @@
             <div class="col-lg-12">
                 <!-- subscribe area start -->
                 <div class="subscribe-area-start pb--20">
-                    <a href="#" class="logo">
+                    <a href="index.php" class="logo">
                         <img src="assets/images/logo/logo.png" width="100" alt="logo">
                     </a>
                 </div>
@@ -16,7 +16,7 @@
                         <h6 class="title">Contact</h6>
                         <div class="body">
                             <p class="location">
-                                Suisse, Rue du Léman 18B
+                                Suisse, <br> Rue du Léman 18B
                                 1920 Martigny
                             </p>
                             <!-- <a href="#">adresse@gmail.com</a> -->
@@ -93,7 +93,7 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Service</a>
                     <ul class="submenu mm-collapse">
-                        <li><a href="service.php">Laser & imagerie e la rétine</a></li>
+                        <li><a href="service.php">Laser & imagerie de la rétine</a></li>
                         <li><a href="service-details.html">Urgence Ophotamologique</a></li>
                         <li><a href="service-details-2.html">Laser & imagerie e la rétine</a></li>
                         <li><a href="service-details-3.html">Chirugie(Glaucome, cataracte etc..)</a></li>
@@ -102,7 +102,7 @@
                         <li><a href="service-details-3.html">Téléconsultation</a></li>
                     </ul>
                 </li>
-                <li class="has-droupdown">
+                <li>
                     <a href="doctors.php" class="main">Nos Médecins</a>
                 </li>
                 <li><a href="faq.php" class="main">FAQs</a></li>
