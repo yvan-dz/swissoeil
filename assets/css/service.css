@@ -1,5 +1,5 @@
-    :root {
-        --rouge-suisse: #c8102e;
+   :root {
+        --rouge-suisse: #f00606;
         --gris-fonce: #1f2429;
         --gris-medium: #555d6b;
         --gris-clair: #f9f9fb;
@@ -26,48 +26,61 @@
     }
 
     .toc {
-        position: sticky;
-        top: 10px;
-        background: #fff;
-        border: 1px solid #e3e8ee;
-        padding: 14px 20px;
-        border-radius: 10px;
-        display: flex;
-        gap: 40px;
-        flex-wrap: wrap;
-        margin-bottom: 40px;
-        box-shadow: 0 10px 32px rgba(31,36,41,0.08);
-        font-size: 14px;
-        z-index: 10;
-    }
+    background: var(--rouge-suisse);
+    color: #ffffff;
+    border-radius: 16px;
+    padding: 24px 28px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.05);
+    max-width: 320px;
+    margin: 0 0 60px 0;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+}
 
-    .toc .group {
-        min-width: 140px;
-    }
+.toc .group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+}
 
-    .toc a {
-        display: block;
-        text-decoration: none;
-        color: var(--gris-fonce);
-        margin-bottom: 6px;
-        position: relative;
-        padding-left: 6px;
-    }
+.toc .group > div {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    margin-bottom: 6px;
+}
 
-    .toc a::before {
-        content: "•";
-        position: absolute;
-        left: 0;
-        color: var(--rouge-suisse);
-        font-size: 18px;
-        line-height: 1;
-        top: 2px;
-    }
+.toc a {
+    text-decoration: none;
+    color: #ffffff;
+    position: relative;
+    padding-left: 18px;
+    line-height: 1.6;
+    transition: opacity 0.2s ease;
+}
 
-    .toc a.sub {
-        font-size: 12px;
-        padding-left: 14px;
-    }
+.toc a::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 6px;
+}
+
+.toc a:hover {
+    opacity: 0.85;
+}
+
+.toc a:hover::before {
+    background-color: #e0e0e0;
+}
+
 
     .section {
         margin-bottom: 70px;
@@ -279,3 +292,70 @@
         color: #666;
         margin-top: 4px;
     }
+
+    :root {
+    font-size: 17px;
+    --gris-medium: #4a5568; /* plus contrasté */
+    --gris-fonce: #1a202c;  /* plus net pour le corps de texte */
+}
+
+body {
+    font-size: 17px;
+    line-height: 1.7;
+    color: var(--gris-fonce);
+    background: #ffffff;
+    font-weight: 400;
+}
+
+.section-title {
+    font-size: 36px;
+    letter-spacing: -0.3px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: var(--gris-fonce);
+}
+
+.small-title {
+    font-size: 13px;
+    letter-spacing: 1.2px;
+    font-weight: 700;
+    color: var(--rouge-suisse);
+}
+
+.subtitle,
+.lead {
+    font-size: 17px;
+    color: var(--gris-medium);
+}
+
+.card h4 {
+    font-size: 20px;
+    color: var(--gris-fonce);
+}
+
+.card .small-caption {
+    font-size: 15px;
+    color: var(--gris-medium);
+}
+
+.list-plain li {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--gris-fonce);
+}
+
+.toc {
+    font-size: 16px;
+}
+
+.toc a {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.testimonial {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--gris-fonce);
+}

@@ -140,112 +140,108 @@
     </div>
     <!-- rs about area end -->
 
-    <!-- srvice area start -->
     <div class="service-area position-relative rts-section-gap bg-light-1 card-transparent-service">
         <div class="container">
             <div class="row g-5">
+                <!-- Intro -->
                 <div class="col-lg-6 col-md-6">
                     <div class="title-wrapper-left">
-                        <span class="pre wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">Nos Services</span>
-                        <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                            Nous offrons une <br> large varieté<br> de services
-                        </h2>
-                        <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                            Nos experts s'engagent à offrir des soins complets, précis et centrés sur le patient, en s'appuyant sur les dernières avancées en ophtalmologie.
+                        <span class="pre">Nos Services</span>
+                        <h2 class="title">Nous offrons une <br> large variété <br> de consultations</h2>
+                        <p class="disc">
+                            Découvrez notre gamme complète de consultations adaptées à tous les profils visuels, avec un accompagnement expert et des équipements de pointe.
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">
+
+                <!-- 1. Bilan visuel -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/29.svg" alt="service">
+                            <img src="assets/images/service/33.svg" alt="bilan visuel">
                         </div>
-                        <h4 class="title">Opération de la cataracte</h4>
+                        <h4 class="title">Bilan visuel</h4>
                         <p class="disc">
-                            Évaluation approfondie et intervention chirurgicale pour restaurer votre vision en toute sécurité.
+                            Évaluation de la vue, prescription de lunettes ou lentilles et certificats officiels.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
+
+                <!-- 2. Consultation pédiatrique -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/30.svg" alt="service">
+                            <img src="assets/images/service/32.svg" alt="consultation enfant">
                         </div>
-                        <h4 class="title">Imagerie de la rétine</h4>
+                        <h4 class="title">Consultation enfant</h4>
                         <p class="disc">
-                            Analyses haute précision pour détecter et suivre les pathologies rétiniennes avec fiabilité.
+                            Dépistage précoce de troubles visuels, strabisme ou amblyopie chez les enfants.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">
+
+                <!-- 3. Consultation senior -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/31.svg" alt="service">
+                            <img src="assets/images/service/29.svg" alt="consultation senior">
                         </div>
-                        <h4 class="title">Therapie de la vue</h4>
+                        <h4 class="title">Consultation senior</h4>
                         <p class="disc">
-                            Programmes personnalisés pour améliorer la performance visuelle et traiter les troubles fonctionnels.
+                            Suivi de la cataracte, DMLA, glaucome et autres pathologies liées à l’âge.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
+
+                <!-- 4. Téléophtalmologie -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/32.svg" alt="service">
+                            <img src="assets/images/service/30.svg" alt="teleophtalmologie">
                         </div>
-                        <h4 class="title">Sécheresse occulaire</h4>
+                        <h4 class="title">Téléophtalmologie</h4>
                         <p class="disc">
-                            Diagnostic ciblé et solutions adaptées pour soulager l’inconfort lié à la sécheresse oculaire.
+                            Suivi médical à distance via plateforme sécurisée, avec analyse d’images et résultats.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
+
+                <!-- 5. Consultation spécialisée -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/33.svg" alt="service">
+                            <img src="assets/images/service/34.svg" alt="consultation spécialisée">
                         </div>
-                        <h4 class="title">Bilan de la vue</h4>
+                        <h4 class="title">Consultation spécialisée</h4>
                         <p class="disc">
-                            Examens complets pour évaluer votre acuité visuelle et dépister d’éventuelles anomalies.
+                            Rétine, cornée, neuro-ophtalmologie, chirurgie réfractive : examens ciblés et expertise.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".8s">
+
+                <!-- 6. Urgences ophtalmologiques -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-service-area">
                         <div class="icon">
-                            <img src="assets/images/service/34.svg" alt="service">
+                            <img src="assets/images/service/31.svg" alt="urgence ophtalmologique">
                         </div>
-                        <h4 class="title">Laser</h4>
+                        <h4 class="title">Urgences</h4>
                         <p class="disc">
-                            Traitements laser de précision pour corriger ou stabiliser diverses affections oculaires.
+                            Prise en charge immédiate : douleurs, baisses de vision brutales, traumatismes visuels.
                         </p>
-
-                        <a href="#" class="btn-transparent">En savoir plus <i
-                                class="fa-solid fa-arrow-right-long"></i></a>
+                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
+
             </div>
         </div>
-        <div class="service-content-iamge">
-            <img src="assets/images/service/13.png" alt="service">
-        </div>
     </div>
-    <!-- srvice area end -->
+
 
 
 
