@@ -47,7 +47,7 @@
                                     <a href="index.php">Acceuil</a>
                                 </li>
 
-                                <li class="main-nav has-dropdown mega-menu">
+                               <!-- <li class="main-nav has-dropdown mega-menu">
                                     <a href="#">Services</a>
                                     <div class="rts-mega-menu">
                                         <div class="wrapper">
@@ -78,8 +78,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                </li>
+                                </li> -->
 
+                                  <li class="main-nav">
+                                    <a href="service.php">Nos services</a>
+
+                                </li>
                                 
                                 <li class="main-nav">
                                     <a href="faq.php">FaQs</a>
