@@ -11978,17 +11978,17 @@ Copyright (c) 2015 Daniel Eden
 }
 @media only screen and (min-width: 1600px) and (max-width: 1919px) {
   .container-full-header {
-    padding: 0 15px;
+    padding: 0;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .container-full-header {
-    padding: 0 15px;
+    padding: 0;
   }
 }
 @media only screen and (max-width: 1199px) {
   .container-full-header {
-    padding: 0 15px;
+    padding: 0;
   }
 }
 
