@@ -395,3 +395,32 @@ body {
     }
 }
 
+@media screen and (max-width: 768px) {
+    .tech-equipements {
+        width: 100%;
+        max-width: 100%;
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box;
+        overflow-x: hidden;
+    }
+
+    .tech-equipements h2.section-title {
+        font-size: 22px;
+    }
+
+    .tech-equipements p,
+    .tech-equipements .lead,
+    .tech-equipements ul li {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    .tech-equipements .highlight-box {
+        padding: 16px;
+        font-size: 15px;
+        overflow-x: auto;
+    }
+}
