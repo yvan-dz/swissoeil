@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -31,18 +31,17 @@
                         <div class="banner-content-area">
                             <div class="pre-title wow fadeInUp" data-wow-delay=".0s" data-wow-duration=".8s">
                                 <img src="assets/images/service/31.svg" width="24" alt="icons">
-                                <span>Votre vision notre priorité</span>
+                                <span>La santé de vos yeux: notre priorité</span>
                             </div>
-                            <h1 class="title wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">Excellence en
+                            <h1 class="title wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">Swissoeil <br>Précision, confiance, clarté
                                 <br>
-                                Ophtamologie
                             </h1>
                             <p class="disc wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
                                 Nous offrons une large gamme de services médicauxpour soutenir votre santé et votre bien
                                 etre.
                             </p>
                             <div class="select-area-down wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                                <a href="" class="rts-btn btn-primary">Nos Docteurs</a>
+                                <a href="service.php" class="rts-btn btn-primary">Nos Services</a>
                             </div>
                         </div>
                         <!-- person image -->
@@ -70,31 +69,6 @@
                         </h5>
                     </a>
                 </div>
-
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay=".6s"
-                    data-wow-duration=".8s">
-                    <a href="tel:+41 027 722 29 31." class="single-short-service">
-                        <div class="icon">
-                            <img src="assets/images/service/03.svg" alt="service">
-                        </div>
-                        <h5 class="title">
-                            Appel <br>
-                            D'urgence
-                        </h5>
-                    </a>
-                </div>
-                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInRight" data-wow-delay=".8s"
-                    data-wow-duration=".8s">
-                    <a href="contactus.php" class="single-short-service">
-                        <div class="icon">
-                            <img src="assets/images/service/04.svg" alt="service">
-                        </div>
-                        <h5 class="title">
-                            Support<br>
-                            24/7
-                        </h5>
-                    </a>
-                </div>
             </div>
         </div>
     </div>
@@ -108,22 +82,23 @@
                 <div class="col-lg-5">
                     <div class="about-image-left-wrapper">
                         <div class="thumbnail-main move-right wow">
-                            <img src="assets/images/about/batiment.jpg" alt="about">
+                            <img src="assets/images/about/bati2.jpeg" alt="about">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1 mt--30">
                     <div class="about-content-wrapper-right">
                         <div class="title-wrapper-left">
-                            <span class="pre wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">A Propos</span>
+                            <span class="pre wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">La santé de vos yeux et votre vision: notre priorité</span>
                             <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                                Votre vision, notre priorité <br> Des soins ophtalmologiques fondés sur l’expertise, la rigueur et l’éthique
+                               Notre centre est équipé de matériel de dernière génération, permettant des examens précis et fiables.
                             </h2>
                         </div>
                         <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                            Fort de plusieurs années d’expérience, je m’engage à fournir des soins précis et rigoureux, en accord avec les standards les plus élevés de la médecine ophtalmologique.<br>
+Nous y offrons des soins ophtalmologiques de haute qualité, conformes aux standards internationaux et aux recommandations scientifiques les plus récentes.
+<br>
 
-                            L’éthique, la qualité des traitements et le bien-être du patient sont au cœur de ma pratique. Grâce à un diagnostic précis et à l’utilisation de technologies de pointe, je vous propose une prise en charge personnalisée, adaptée à vos besoins visuels spécifiques.
+                          Chaque patient bénéficie d’une prise en charge personnalisée, alliant technologie avancée, expertise médicale et écoute attentive, afin de préserver et d’optimiser sa vision au quotidien
                         </p>
                         <div class="button-wrapper wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".8s">
                             <a href="about.php" class="rts-btn btn-primary">A Propos <img
@@ -160,7 +135,7 @@
                         <div class="icon">
                             <img src="assets/images/service/33.svg" alt="bilan visuel">
                         </div>
-                        <h4 class="title">Bilan visuel</h4>
+                        <h4 class="title">Examen de la vue</h4>
                         <p class="disc">
                             Évaluation de la vue, prescription de lunettes ou lentilles et certificats officiels.
                         </p>
@@ -174,37 +149,9 @@
                         <div class="icon">
                             <img src="assets/images/service/32.svg" alt="consultation enfant">
                         </div>
-                        <h4 class="title">Consultation enfant</h4>
+                        <h4 class="title">Ophtamologie pédiatrique</h4>
                         <p class="disc">
                             Dépistage précoce de troubles visuels, strabisme ou amblyopie chez les enfants.
-                        </p>
-                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-
-                <!-- 3. Consultation senior -->
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="single-service-area">
-                        <div class="icon">
-                            <img src="assets/images/service/29.svg" alt="consultation senior">
-                        </div>
-                        <h4 class="title">Consultation senior</h4>
-                        <p class="disc">
-                            Suivi de la cataracte, DMLA, glaucome et autres pathologies liées à l’âge.
-                        </p>
-                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
-
-                <!-- 4. Téléophtalmologie -->
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="single-service-area">
-                        <div class="icon">
-                            <img src="assets/images/service/30.svg" alt="teleophtalmologie">
-                        </div>
-                        <h4 class="title">Téléophtalmologie</h4>
-                        <p class="disc">
-                            Suivi médical à distance via plateforme sécurisée, avec analyse d’images et résultats.
                         </p>
                         <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
@@ -216,27 +163,27 @@
                         <div class="icon">
                             <img src="assets/images/service/34.svg" alt="consultation spécialisée">
                         </div>
-                        <h4 class="title">Consultation spécialisée</h4>
+                        <h4 class="title">Consultations spécialisées</h4>
                         <p class="disc">
-                            Rétine, cornée, neuro-ophtalmologie, chirurgie réfractive : examens ciblés et expertise.
+                            Rétine, cornée, neuro-ophtalmologie, chirurgie réfractive : examens ciblés, expertise et autres pathologies liées à l’âge..
                         </p>
                         <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
                     </div>
                 </div>
 
                 <!-- 6. Urgences ophtalmologiques -->
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="single-service-area">
-                        <div class="icon">
-                            <img src="assets/images/service/31.svg" alt="urgence ophtalmologique">
-                        </div>
-                        <h4 class="title">Urgences</h4>
-                        <p class="disc">
-                            Prise en charge immédiate : douleurs, baisses de vision brutales, traumatismes visuels.
-                        </p>
-                        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>
-                    </div>
-                </div>
+                <!--<div class="col-lg-3 col-md-6 col-sm-6">-->
+                <!--    <div class="single-service-area">-->
+                <!--        <div class="icon">-->
+                <!--            <img src="assets/images/service/31.svg" alt="urgence ophtalmologique">-->
+                <!--        </div>-->
+                <!--        <h4 class="title">Urgences</h4>-->
+                <!--        <p class="disc">-->
+                <!--            Prise en charge immédiate : douleurs, baisses de vision brutales, traumatismes visuels.-->
+                <!--        </p>-->
+                <!--        <a href="service.php#consultations" class="btn-transparent">En savoir plus <i class="fa-solid fa-arrow-right-long"></i></a>-->
+                <!--    </div>-->
+                <!--</div>-->
 
             </div>
         </div>

@@ -16,8 +16,8 @@
                         <h6 class="title">Contact</h6>
                         <div class="body">
                             <p class="location">
-                                Suisse, <br> Rue du Léman 18B
-                                1920 Martigny
+                                Suisse, <br>Rue de la gare
+                                 8 Monthey
                             </p>
                             <!-- <a href="#">adresse@gmail.com</a> -->
                             <a href="tel:+41 027 722 29 31">+41 027 722 29 31</a>

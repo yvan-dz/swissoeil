@@ -7,7 +7,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png">
     <title>Swissoeil - Contact</title>
     <meta name="description"
-        content="Cabinet dd'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
+        content="Cabinet d'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
     <meta author="Websnape & Elevryx">
     <meta name="keywords"
         content="ophtalmologie, soins oculaires, Genève, santé des yeux, cataracte, glaucome, laser, rétine, vision, santé visuelle">
@@ -54,7 +54,7 @@
                             <img src="assets/images/contact/01.png" alt="icons">
                         </div>
                         <a href="#">
-                            Rue du Léman 18B
+                            Rue de la gare 8 Monthey
                             <br>
                             1920 Martigny
                         </a>
@@ -85,7 +85,6 @@
         </div>
     </div>
     <!-- contact us area end -->
-
 
     <!-- google map area start -->
     <div class="google-map-area rts-section-gap">
@@ -144,11 +143,19 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="thumbnail-appoinment wow move-right">
-                        <img src="assets/images/contact/batiment.jpg" alt="appoinment">
+                
+                    
+                     <div class="col-lg-6">
+                    <!--      <div class="thumbnail-appoinment wow move-right">-->
+                    <!--   <img src="assets/images/appoinment/pic1.jpg" width="200px" alt="">-->
+                    <!--</div>-->
+                   <div class="thumbnail-appoinment wow move-right">
+                       <img src="assets/images/appoinment/pic2.jpg" width="200px" alt="">
                     </div>
                 </div>
+                   
+                 
+                
             </div>
         </div>
     </div>

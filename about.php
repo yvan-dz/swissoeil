@@ -47,7 +47,7 @@
                 <div class="col-lg-5 mb_md--30 mb_sm--30">
                     <div class="about-image-left-wrapper">
                         <div class="thumbnail-main move-right wow">
-                            <img src="assets/images/about/batiment.jpg" alt="about">
+                            <img src="assets/images/about/bati2.jpeg" alt="about">
                         </div>
                     </div>
                 </div>
