@@ -17,7 +17,7 @@
                         <div class="body">
                             <p class="location">
                                 Suisse, <br>Rue de la gare
-                                 8 Monthey
+                                 8, 1920 Monthey
                             </p>
                             <!-- <a href="#">adresse@gmail.com</a> -->
                             <a href="tel:+41 027 722 29 31">+41 027 722 29 31</a>
@@ -51,7 +51,10 @@
                         <h6 class="title">Horaire</h6>
                         <div class="body">
                             <p class="location">
-                                Lun - Ven: 08:30 - 18:00
+                               Lundi 13h30-19h
+                            </p>
+                             <p class="location">
+                               Mardi 8h30-13h30 et 14h-19h
                             </p>
                             <p class="location">
                                 Samedi: Fermé

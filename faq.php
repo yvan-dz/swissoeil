@@ -7,8 +7,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png">
     <title>Swissoeil - FAQs</title>
     <meta name="description"
-       content="Cabinet dd'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
-       <meta author="Websnape & Elevryx">
+        content="Cabinet dd'ophtalmologie à Genève, offrant des services de soins oculaires de haute qualité. Notre équipe d'experts est dédiée à la santé de vos yeux.">
+    <meta author="Websnape & Elevryx">
     <meta name="keywords" content="ophtalmologie, soins oculaires, Genève, santé des yeux, cataracte, glaucome, laser, rétine, vision, santé visuelle">
     <link rel="stylesheet" href="assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
@@ -20,7 +20,7 @@
 
     <!-- header area start -->
     <?php include 'header.php' ?>
-    
+
     <!-- header area end -->
 
     <!-- rts breadcrumb area start -->
@@ -58,13 +58,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Quelle est l'adresse de Dr. Gérard Djoukwe ?
+                                    Quelle est l'adresse de Swiss Œil ?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Dr. Gérard Djoukwe reçoit ses patients à l’adresse suivante : CMC OPHTA LEMAN, Rue du Léman 18B, 1920 Martigny.
+                                    Swiss Œil reçoit ses patients à l’adresse suivante : Rue de la gare 8, 1920 Monthey.
                                 </div>
                             </div>
                         </div>
@@ -74,13 +74,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Quelles langues parle Dr. Gérard Djoukwe ?
+                                    Quelles langues parle Swiss Œil ?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Dr. Gérard Djoukwe propose des consultations en français, anglais et italien.
+                                    Swiss Œil propose des consultations en français, anglais et italien.
                                 </div>
                             </div>
                         </div>
@@ -90,13 +90,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Quels sont les horaires de consultation de Dr. Gérard Djoukwe ?
+                                    Quels sont les horaires de consultation de Swiss Œil ?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Les consultations ont lieu du lundi au vendredi, de 08:30 à 18:00, à CMC OPHTA LEMAN Martigny.
+                                    Les consultations ont lieu le Lundi 13h30-19h ainsi que Mardi 8h30-13h30 et 14h-19h
                                 </div>
                             </div>
                         </div>
@@ -106,13 +106,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Est-ce que Dr. Gérard Djoukwe accepte les nouveaux patients ?
+                                    Est-ce que Swiss Œil accepte les nouveaux patients ?
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Oui, Dr. Gérard Djoukwe accepte les nouveaux patients. La prise de rendez-vous est possible en ligne 24/7 via la plateforme OneDoc.
+                                    Oui, Swiss Œil accepte les nouveaux patients. La prise de rendez-vous est possible en ligne 24/7 via la plateforme OneDoc.
                                 </div>
                             </div>
                         </div>
@@ -122,13 +122,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    Quelles sont les expertises de Dr. Gérard Djoukwe ?
+                                    Quelles sont les expertises de Swiss Œil ?
                                 </button>
                             </h2>
                             <div id="collapseFive" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Les expertises de Dr. Gérard Djoukwe incluent : examen de la vue, cataracte, glaucome, ophtalmologie pédiatrique et DMLA (Dégénérescence Maculaire Liée à l'Âge).
+                                    Les expertises de Swiss Œil incluent : examen de la vue, cataracte, glaucome, ophtalmologie pédiatrique et DMLA (Dégénérescence Maculaire Liée à l'Âge).
                                 </div>
                             </div>
                         </div>
@@ -139,6 +139,7 @@
         </div>
     </div>
 </div>
+
 
     <!-- rts faq area end -->
 

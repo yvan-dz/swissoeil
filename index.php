@@ -14,6 +14,71 @@
     <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        .pre-title {
+            margin-right: 50px;
+        }
+
+        .pre-title img {
+            width: 500px;
+        }
+
+        .banner-content-area .title {
+            font-size: 30px;
+            line-height: 1.3;
+            font-weight: 700;
+            text-align: center;
+            color: #c8102e;
+        }
+
+        .banner-content-area .title span {
+            color: #c8102e;
+            font-weight: 700;
+        }
+
+        /* Media queries pour écrans petits */
+        @media (max-width: 768px) {
+            .pre-title {
+                margin-right: 20px;
+            }
+
+            .pre-title img {
+                width: 250px;
+            }
+
+            .banner-content-area .title {
+                font-size: 20px;
+                text-align: left;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .pre-title {
+                margin-right: 10px;
+            }
+
+            .pre-title img {
+                width: 150px;
+            }
+
+            .banner-content-area .title {
+                font-size: 16px;
+                text-align: left;
+            }
+        }
+
+        .banner-content-area .title span {
+            color: #c8102e;
+            font-weight: 700;
+        }
+
+        /* Sur petits écrans, forcer le span à être block pour être bien à la ligne */
+        @media (max-width: 768px) {
+            .banner-content-area .title span {
+                display: block;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -30,23 +95,13 @@
                     <div class="banner-area-one rts-section-gap bg_image">
                         <div class="banner-content-area">
                             <div class="pre-title wow fadeInUp" data-wow-delay=".0s" data-wow-duration=".8s">
-                                <img src="assets/images/service/31.svg" width="24" alt="icons">
-                                <span>La santé de vos yeux: notre priorité</span>
+                                <img src="assets/images/logo/logo.png" alt="Swissoeil Logo">
                             </div>
-                            <h1 class="title wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">Swissoeil <br>Précision, confiance, clarté
-                                <br>
+                            <h1 class="title wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">
+                                La santé de vos yeux:<br>
+                                <span>notre priorité</span><br>
                             </h1>
-                            <p class="disc wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                                Nous offrons une large gamme de services médicauxpour soutenir votre santé et votre bien
-                                etre.
-                            </p>
-                            <div class="select-area-down wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-                                <a href="service.php" class="rts-btn btn-primary">Nos Services</a>
-                            </div>
                         </div>
-                        <!-- person image -->
-
-                        <!-- person image -->
                     </div>
                 </div>
             </div>
@@ -82,31 +137,29 @@
                 <div class="col-lg-5">
                     <div class="about-image-left-wrapper">
                         <div class="thumbnail-main move-right wow">
-                            <img src="assets/images/about/bati2.jpeg" alt="about">
+                            <img src="assets/images/about/bati2.jpg" alt="about">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 offset-lg-1 mt--30">
                     <div class="about-content-wrapper-right">
                         <div class="title-wrapper-left">
-                            <span class="pre wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".8s">La santé de vos yeux et votre vision: notre priorité</span>
-                            <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s">
-                               Notre centre est équipé de matériel de dernière génération, permettant des examens précis et fiables.
-                            </h2>
-                        </div>
-                        <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s">
-Nous y offrons des soins ophtalmologiques de haute qualité, conformes aux standards internationaux et aux recommandations scientifiques les plus récentes.
-<br>
 
-                          Chaque patient bénéficie d’une prise en charge personnalisée, alliant technologie avancée, expertise médicale et écoute attentive, afin de préserver et d’optimiser sa vision au quotidien
+                            <h2 class="title wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".8s"
+                                style="font-size:24px; text-align:center; font-weight:720; line-height:1.2; margin:0;">
+                                Notre centre, situé au cœur <br>
+                                du Valais à Monthey.
+                            </h2>
+
+                        </div>
+                        <p class="disc wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".8s" style="margin-top:20px;">
+                            Nous réalisons vos examens de la vue, d’ophtalmologie générale et spécialisée en rétine médicale, chirurgicale, du glaucome, ainsi que des maculopathies.
                         </p>
+
                         <div class="button-wrapper wow fadeInUp" data-wow-delay=".8s" data-wow-duration=".8s">
                             <a href="about.php" class="rts-btn btn-primary">A Propos <img
                                     src="assets/images/banner/icons/arrow--up-right.svg" alt=""></a>
-                            <div class="signature">
-                                <img class="one" src="assets/images/about/g1.png" width="65" alt="about">
-                                <p><strong>Dr. Gérard Djoukwe</strong></p>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -244,16 +297,7 @@ Nous y offrons des soins ophtalmologiques de haute qualité, conformes aux stand
                                                     <p>Des années de pratique combinées à une maîtrise des techniques les plus récentes en ophtalmologie.</p>
                                                 </div>
                                             </div>
-                                            <div class="single-choose-us wow fadeInLeft" data-wow-delay=".8s"
-                                                data-wow-duration=".8s">
-                                                <div class="icon">
-                                                    <img src="assets/images/service/icon/04.svg" alt="service">
-                                                </div>
-                                                <div class="info">
-                                                    <h6 class="title">Disponible 24/7</h6>
-                                                    <p>Prenez rendez-vous en ligne à tout moment, facilement et en toute autonomie, selon vos disponibilités.</p>
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>

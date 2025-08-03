@@ -45,83 +45,15 @@
     <!-- service details area start -->
 
     <div class="page-wrapper">
-        <!-- Table des matières -->
-        <div class="toc" aria-label="Table des matières">
-            <div class="group">
-                <div style="font-weight:700; margin-bottom:6px;">Navigation</div>
-                <a href="#presentation">1. Présentation</a>
-                <a href="#consultations">2. Consultations</a>
-                <a href="#location">3. Localisation</a>
-                <a href="#rdv">4. Rendez-vous</a>
-                <a href="#avis">5. Avis</a>
-            </div>
-        </div>
+       
 
-        <!-- 1. Présentation du cabinet -->
-        <section class="section" id="presentation">
-            <div class="small-title">Swiss Œil</div>
-            <h1 class="section-title">Centre ophtalmologique à Monthey</h1>
-            <p class="subtitle">L’excellence suisse au service de votre vision</p>
-            <p class="lead">
-                Bienvenue chez <strong>Swiss Œil</strong>, votre centre d’ophtalmologie à Monthey, dédié à la santé de vos yeux. Notre cabinet prend en charge l’ensemble des pathologies oculaires dans un cadre moderne, technologique et bienveillant, au cœur du Valais.
-            </p>
-
-            <div class="card">
-                <h4>Nos prestations</h4>
-                <ul class="list-plain spaced-list">
-                    <li>Bilan visuel pour lunettes, lentilles et permis de conduire</li>
-                    <li>Dépistage et traitement de la cataracte</li>
-                    <li>Suivi du glaucome</li>
-                    <li>Prise en charge de la DMLA (Dégénérescence Maculaire Liée à l’Âge)</li>
-                    <li>Kératocône et autres pathologies cornéennes</li>
-                    <li>Rétinopathie diabétique, occlusions veineuses et affections rétiniennes</li>
-                    <li>Sécheresse oculaire et troubles de la surface oculaire</li>
-                    <li>Urgences ophtalmologiques</li>
-                </ul>
-            </div>
-
-            <div class="divider"></div>
-
-            <div class="two-col" style="gap: 60px;">
-                <div class="half">
-                    <div class="small-title">Expertise</div>
-                    <h2 class="section-title" style="font-size: 26px;">Un spécialiste reconnu</h2>
-                    <p class="lead">
-                        Le Dr Gérard Djoukwe, médecin ophtalmologue spécialiste FMH, est membre de :
-                    </p>
-                    <ul class="list-plain spaced-list">
-                        <li>La Société Suisse d’Ophtalmologie (SSO)</li>
-                        <li>La Société Européenne de Chirurgie Réfractive et de la Cataracte (ESCRS)</li>
-                    </ul>
-                    <p>
-                        Fort d’une solide expertise clinique et d’une expérience confirmée en milieu hospitalier et en cabinet, il propose une prise en charge rigoureuse, humaine et personnalisée, fondée sur les dernières recommandations scientifiques.
-                    </p>
-                </div>
-                <div class="half tech-equipements">
-                    <div class="small-title" style="margin-top: 5%;">Technologie</div>
-                    <h2 class="section-title" style="font-size: 26px;">Équipements de dernière génération</h2>
-                    <p class="lead">
-                        Le cabinet Swiss Œil dispose d’un plateau technique avancé, garantissant un diagnostic précis et des traitements adaptés.
-                    </p>
-                    <div class="highlight-box">
-                        <ul class="list-plain spaced-list">
-                            <li><strong>OCT Heidelberg Engineering :</strong> imagerie en haute définition de la rétine, du nerf optique et de la macula pour un dépistage précoce et un suivi pointu des pathologies comme le glaucome, la DMLA ou les œdèmes rétiniens.</li>
-                            <li><strong>Système de réfraction automatisée NIDEK :</strong> mesure ultra-précise de la vision pour une correction visuelle sur mesure.</li>
-                            <li><strong>Lampe à fente Haag-Streit 900 :</strong> examen fin du segment antérieur avec optiques de haute performance et éclairage LED puissant.</li>
-                        </ul>
-                    </div>
-                    <p>
-                        Ces technologies, combinées à l’expertise du Dr Djoukwe, permettent de proposer des soins conformes aux standards d’excellence de la médecine suisse.
-                    </p>
-                </div>
-            </div>
-        </section>
+        
 
         <!-- 2. Consultations -->
         <section class="section" id="consultations">
-            <div class="small-title">Consultations</div>
+            
             <h2 class="section-title">Types de consultations ophtalmologiques</h2>
-            <p class="lead">Swiss Œil – Monthey vous propose un accompagnement sur mesure pour chaque profil de patient, du dépistage précoce à la chirurgie spécialisée.</p>
+            
 
             <div class="cards">
 
@@ -166,21 +98,10 @@
                     </ul>
                 </div>
 
-                <!-- 4. Téléophtalmologie -->
-                <div class="card">
-                    <h4>4. Téléophtalmologie</h4>
-                    <p class="small-caption"><strong>But</strong> : Offrir un avis ou suivi à distance</p>
-                    <ul class="list-plain">
-                        <li>Transmission d’images sécurisée</li>
-                        <li>Analyse médicale à distance</li>
-                        <li>Compte-rendu et recommandations</li>
-                        <li>Consultation en présentiel si besoin</li>
-                    </ul>
-                </div>
 
                 <!-- 5. Consultation spécialisée -->
                 <div class="card">
-                    <h4>5. Consultation spécialisée</h4>
+                    <h4>4. Consultation spécialisée</h4>
                     <p class="small-caption"><strong>But</strong> : Diagnostiquer des pathologies complexes</p>
                     <ul class="list-plain">
                         <li>Rétine : OCT, fond d’œil, angiographie</li>
@@ -192,7 +113,7 @@
 
                 <!-- 6. Urgences -->
                 <div class="card">
-                    <h4>6. Urgences ophtalmologiques</h4>
+                    <h4>5. Urgences ophtalmologiques</h4>
                     <p class="small-caption"><strong>But</strong> : Intervenir rapidement en cas de danger visuel</p>
                     <ul class="list-plain">
                         <li>Baisse brutale de la vision</li>
@@ -204,7 +125,7 @@
 
                 <!-- 7. Pré-opératoire -->
                 <div class="card">
-                    <h4>7. Pré-opératoire</h4>
+                    <h4>6. Pré-opératoire</h4>
                     <p class="small-caption"><strong>But</strong> : Confirmer l’indication chirurgicale</p>
                     <ul class="list-plain">
                         <li>Bilan visuel complet</li>
@@ -216,7 +137,7 @@
 
                 <!-- 8. Post-opératoire -->
                 <div class="card">
-                    <h4>8. Post-opératoire</h4>
+                    <h4>7. Post-opératoire</h4>
                     <p class="small-caption"><strong>But</strong> : Vérifier la cicatrisation et ajuster le traitement</p>
                     <ul class="list-plain">
                         <li>Contrôle de l’acuité visuelle</li>
@@ -228,7 +149,7 @@
 
                 <!-- 9. Suivi régulier -->
                 <div class="card">
-                    <h4>9. Suivi médical régulier</h4>
+                    <h4>8. Suivi médical régulier</h4>
                     <p class="small-caption"><strong>But</strong> : Contrôle annuel ou suivi de pathologies chroniques</p>
                     <ul class="list-plain">
                         <li>Révision de l’historique</li>
@@ -239,42 +160,6 @@
                 </div>
 
             </div>
-        </section>
-
-        <!-- 3. Où il se trouve -->
-        <section class="section" id="location">
-            <div class="small-title">Où nous trouver</div>
-            <h2 class="section-title">Adresse de consultation</h2>
-            <div class="location-box">
-                <div class="location-details">
-                    <p class="lead">
-                        Le Dr Gérard Djoukwe reçoit ses patients à l’adresse suivante :
-                    </p>
-                    <p style="margin:0; font-weight:700; font-size:16px;">
-                        CMC OPHTA LEMAN<br>
-                        Rue du Léman 18B,<br>
-                        1920 Martigny
-                    </p>
-                    <p class="small-caption" style="margin-top:8px;">
-                        Cabinet facilement accessible dans le Valais, avec parkings et transports à proximité.
-                    </p>
-                </div>
-            </div>
-        </section>
-
-        <!-- 4. Comment prendre rendez-vous -->
-        <section class="section" id="rdv">
-            <div class="small-title">Prise de rendez-vous</div>
-            <h2 class="section-title">Réservez en toute sécurité</h2>
-            <p class="lead">
-                La prise de rendez-vous se fait en ligne via <strong>OneDoc</strong>, plateforme reconnue pour sa sécurité et son respect strict des données personnelles. Vous choisissez votre créneau, recevez une confirmation instantanée et gérez facilement vos rendez-vous.
-            </p>
-            <a class="btn btn-primary" href="https://www.onedoc.ch/fr/ophtalmologue/martigny/pcubn/dr-gerard-djoukwe" target="_blank">
-                Prendre rendez-vous
-            </a>
-            <p class="small-caption" style="margin-top:12px;">
-                Plateforme sécurisée – données chiffrées et confidentialité garanties.
-            </p>
         </section>
 
         <!-- rts testimonials area start -->

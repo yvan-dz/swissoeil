@@ -76,7 +76,7 @@
                             <img src="assets/images/contact/03.png" alt="icons">
                         </div>
                         <a href="#">
-                            Lun-Ven: 08:30 – 18:00 <br>
+                            Lundi 13h30-19h <br> Mardi 8h30-13h30 et 14h-19h <br>
                             Samedi: Fermé
                         </a>
                     </div>
@@ -85,6 +85,7 @@
         </div>
     </div>
     <!-- contact us area end -->
+     
 
     <!-- google map area start -->
     <div class="google-map-area rts-section-gap">

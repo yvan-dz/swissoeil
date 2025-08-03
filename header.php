@@ -7,12 +7,12 @@
                     <div class="left">
                         <div class="map-area">
                             <i class="fa-sharp fa-regular fa-location-dot"></i>
-                            <a href="#">Suisse, Rue du Léman 18B
-                                1920 Martigny</a>
+                            <a href="#">Suisse, Rue gare 8,
+                                1920 Monthey</a>
                         </div>
                         <div class="map-area">
                             <i class="fa-light fa-clock"></i>
-                            <a href="#">Lundi - Vendredi 08:30 - 18:00</a>
+                            <a href="#">Lundi 13h30-19h, Mardi 8h30-13h30 et 14h-19h</a>
                         </div>
                     </div>
                     <div class="right">
