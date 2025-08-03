@@ -188,7 +188,7 @@
                                 <div style="flex:1 1 320px; min-width:280px;">
                                     <h5 class="title">Un spécialiste reconnu</h5>
                                     <p style="margin:6px 0 10px;">
-                                        Le Dr Gérard Djoukwe, médecin ophtalmologue spécialiste FMH, est membre de :
+                                        Swissoeil, médecin ophtalmologue spécialiste FMH, est membre de :
                                     </p>
                                     <ul style="padding-left:16px; margin:0 0 12px; list-style-type: disc;">
                                         <li>La Société Suisse d’Ophtalmologie (SSO)</li>
@@ -212,7 +212,7 @@
                                         </ul>
                                     </div>
                                     <p style="margin:0;">
-                                        Ces technologies, combinées à l’expertise du Dr Djoukwe, permettent de proposer des soins conformes aux standards d’excellence de la médecine suisse.
+                                        Ces technologies, combinées à l’expertise de Swissoeil, permettent de proposer des soins conformes aux standards d’excellence de la médecine suisse.
                                     </p>
                                 </div>
                             </div>
